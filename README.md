@@ -1,2 +1,2 @@
 My first readme
-New update
+Be up to date
